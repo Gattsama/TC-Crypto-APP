@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734105241651",
+    "project_id": "crypto-wallet-ea323",
+    "storage_bucket": "crypto-wallet-ea323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734105241651:android:2f62d6551304e150887b46",
+        "android_client_info": {
+          "package_name": "com.conjuringmidas.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734105241651-qrqtnb7r3ls96o9o60nmp0e0l7ilc1n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conjuringmidas.crypto_wallet",
+            "certificate_hash": "3f642ee531812ba6bcfec3573bb87c5e6a35b333"
+          }
+        },
+        {
+          "client_id": "734105241651-41olctf7mv3g6sk7l1ua968c1d0dnnvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP6jutokymSqg1wle5PKN8xEXTbH5FYyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734105241651-41olctf7mv3g6sk7l1ua968c1d0dnnvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
